@@ -1,0 +1,60 @@
+{
+  "hedges": [
+    "perhaps", "maybe", "possibly", "probably", "likely", "unlikely",
+    "seemingly", "apparently", "presumably", "supposedly", "allegedly",
+    "conceivably", "plausibly", "arguably", "ostensibly", "purportedly",
+    "hypothetically", "tentatively", "arguably", "debatably", "questionably"
+  ],
+  "epistemic_verbs": [
+    "I think", "I believe", "I feel", "I suspect", "I suppose", "I assume",
+    "I expect", "I imagine", "I reckon", "I gather", "I guess", "I doubt",
+    "I wonder", "I fear", "I hope", "I would say", "I would argue",
+    "I would suggest", "it seems", "it appears", "it looks like",
+    "it sounds like", "it feels like", "it strikes me", "it occurs to me",
+    "it seems to me", "it appears to me", "it looks to me"
+  ],
+  "epistemic_phrases": [
+    "in my view", "in my opinion", "in my experience", "from my perspective",
+    "from my point of view", "to my mind", "to my knowledge", "to my understanding",
+    "as far as I know", "as far as I can tell", "as I see it", "as I understand it",
+    "as I recall", "if I remember correctly", "if I'm not mistaken",
+    "unless I'm wrong", "correct me if I'm wrong", "I could be wrong",
+    "I may be mistaken", "I might be wrong", "I'm not sure", "I'm not certain",
+    "I'm not entirely sure", "not entirely clear", "not altogether clear",
+    "it's hard to say", "it's difficult to say", "hard to know", "difficult to know"
+  ],
+  "uncertainty_adverbs": [
+    "somewhat", "rather", "quite", "fairly", "relatively", "comparatively",
+    "essentially", "roughly", "approximately", "broadly", "generally",
+    "typically", "usually", "often", "sometimes", "occasionally", "frequently",
+    "rarely", "seldom", "mostly", "largely", "mainly", "primarily",
+    "partly", "partially", "somewhat", "to some extent", "to a certain extent",
+    "to some degree", "in some ways", "in some respects", "in certain respects"
+  ],
+  "qualification_phrases": [
+    "to some extent", "in some sense", "in a sense", "in a way",
+    "up to a point", "within limits", "for the most part", "by and large",
+    "on the whole", "more or less", "more or less", "at least in part",
+    "at least partially", "among other things", "for one thing",
+    "for another", "then again", "on the other hand", "that said",
+    "having said that", "be that as it may", "even so", "nevertheless"
+  ],
+  "attribution_phrases": [
+    "according to", "based on", "drawing on", "building on",
+    "following", "in line with", "consistent with", "in keeping with"
+  ],
+  "self_correction": [
+    "actually", "in fact", "rather", "or rather", "to be more precise",
+    "to be more specific", "more accurately", "more precisely",
+    "to clarify", "to be clear", "let me clarify", "to put it another way",
+    "put differently", "in other words", "that is to say", "namely",
+    "specifically", "I mean", "what I mean is", "what I mean to say",
+    "what I'm trying to say", "to put it simply", "simply put"
+  ],
+  "first_person_opinion": [
+    "I argue", "I contend", "I maintain", "I hold", "I claim", "I suggest",
+    "I propose", "I recommend", "I submit", "I advance", "my argument",
+    "my claim", "my view", "my position", "my contention", "my suggestion",
+    "my point", "my concern", "from where I stand", "speaking for myself"
+  ]
+}
