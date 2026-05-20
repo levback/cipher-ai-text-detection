@@ -168,7 +168,10 @@ def download_mage(max_n: int) -> list[Row]:
             if not is_valid(t):
                 continue
             doc_id = f"mage_{doc_count}"
-            rows.extend(to_chunks(t, doc_id, int(item.get("label", 0))))
+            # MAGE convention: label=0=machine-generated, label=1=human
+            # Invert to match CIPHER convention: label=1=AI, label=0=human
+            mage_label = 1 - int(item.get("label", 0))
+            rows.extend(to_chunks(t, doc_id, mage_label))
             doc_count += 1
             if len(rows) >= max_n:
                 break
